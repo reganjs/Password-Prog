@@ -1,5 +1,4 @@
-# Regan Setter
-# Student ID 3505894
+# Regan 
 # Program 3 - Loops And If Conditions
 # February 4th, 2021
 
